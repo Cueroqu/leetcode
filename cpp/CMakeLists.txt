@@ -1,0 +1,11 @@
+
+set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+add_executable(DungeonGame DungeonGame.cpp LargestNumber.cpp)
+add_executable(LargestNumber LargestNumber.cpp)
+add_executable(RepeatedDnaSequences RepeatedDnaSequences.cpp)
+add_executable(BestTimeToBuyAndSellStockIV BestTimeToBuyAndSellStockIV.cpp)
+add_executable(EncodeAndDecodeTinyURL EncodeAndDecodeTinyURL.cpp)
+add_executable(ReverseBits ReverseBits.cpp)
+add_executable(Numberof1Bits Numberof1Bits.cpp)
+add_executable(WordSearchII WordSearchII.cpp)
+add_executable(HouseRobber HouseRobber.cpp)

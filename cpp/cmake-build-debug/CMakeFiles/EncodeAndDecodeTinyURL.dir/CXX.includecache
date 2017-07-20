@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/EncodeAndDecodeTinyURL.cpp
+string
+-
+cmath
+-
+unordered_map
+-
+

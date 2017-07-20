@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Numberof1Bits">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Numberof1Bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 Numberof1Bits"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Numberof1Bits/fast">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Numberof1Bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 Numberof1Bits/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LargestNumber">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/LargestNumber" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 LargestNumber"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LargestNumber/fast">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/LargestNumber" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 LargestNumber/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HouseRobber">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/HouseRobber" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 HouseRobber"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HouseRobber/fast">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/HouseRobber" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 HouseRobber/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WordSearchII">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/WordSearchII" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 WordSearchII"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WordSearchII/fast">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/WordSearchII" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 WordSearchII/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EncodeAndDecodeTinyURL">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/EncodeAndDecodeTinyURL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 EncodeAndDecodeTinyURL"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EncodeAndDecodeTinyURL/fast">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/EncodeAndDecodeTinyURL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 EncodeAndDecodeTinyURL/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BestTimeToBuyAndSellStockIV">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/BestTimeToBuyAndSellStockIV" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 BestTimeToBuyAndSellStockIV"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BestTimeToBuyAndSellStockIV/fast">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/BestTimeToBuyAndSellStockIV" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 BestTimeToBuyAndSellStockIV/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RepeatedDnaSequences">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/RepeatedDnaSequences" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 RepeatedDnaSequences"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RepeatedDnaSequences/fast">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/RepeatedDnaSequences" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 RepeatedDnaSequences/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReverseBits">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/ReverseBits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReverseBits"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReverseBits/fast">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/ReverseBits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReverseBits/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DungeonGame">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/DungeonGame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 DungeonGame"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DungeonGame/fast">
+				<Option output="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/DungeonGame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 DungeonGame/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/BestTimeToBuyAndSellStockIV.cpp">
+			<Option target="BestTimeToBuyAndSellStockIV"/>
+		</Unit>
+		<Unit filename="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/DungeonGame.cpp">
+			<Option target="DungeonGame"/>
+		</Unit>
+		<Unit filename="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/EncodeAndDecodeTinyURL.cpp">
+			<Option target="EncodeAndDecodeTinyURL"/>
+		</Unit>
+		<Unit filename="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/HouseRobber.cpp">
+			<Option target="HouseRobber"/>
+		</Unit>
+		<Unit filename="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/LargestNumber.cpp">
+			<Option target="LargestNumber"/>
+			<Option target="DungeonGame"/>
+		</Unit>
+		<Unit filename="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/Numberof1Bits.cpp">
+			<Option target="Numberof1Bits"/>
+		</Unit>
+		<Unit filename="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/RepeatedDnaSequences.cpp">
+			<Option target="RepeatedDnaSequences"/>
+		</Unit>
+		<Unit filename="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/ReverseBits.cpp">
+			<Option target="ReverseBits"/>
+		</Unit>
+		<Unit filename="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/WordSearchII.cpp">
+			<Option target="WordSearchII"/>
+		</Unit>
+		<Unit filename="/Users/zhun.qu/Documents/codes/Cuero/leetcode/cpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
